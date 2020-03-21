@@ -1,4 +1,4 @@
-from ascii_letters import ascii_letters
+from stringstring.ascii_letters import ascii_letters
 
 
 def stringstring(string):
