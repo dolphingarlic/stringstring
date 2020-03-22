@@ -22,5 +22,4 @@ def stringstring(string):
 if __name__ == "__main__":
     print(stringstring('Hello World!'))
     print(stringstring("This is StringString"))
-
     
